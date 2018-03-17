@@ -1,5 +1,5 @@
 # Udacity Miniflow
 
-## Basic building blocks of neural network from Udacity course.
+#### Basic building blocks of neural network from Udacity course.
 
-## Sample tools for basic forward and backward propagation with Stochiastic Gradient Descent
+#### Sample tools for basic forward and backward propagation with Stochiastic Gradient Descent.
